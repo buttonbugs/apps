@@ -20,6 +20,7 @@ __What is Sticker Tips?__
 *Sticker Tips* is an app that can help you print label stickers on ordinary printers. The printed label stickers can contain the same or different text, pictures, barcodes, QR codes, etc.
 
 ![](https://camo.githubusercontent.com/728590bfa6ac00ebe1b263de2bccb570e02b35bce77fa93eac3265d4c74a717f/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f776861745f69735f746970732e706e67)
+
 __How to use Sticker Tips?__
 
 Code Generator
@@ -28,7 +29,8 @@ __What is Code Generator?__
 
 *Code Generator* is an app that can generate barcodes, QR codes, etc.
 
-![](http://buttonbugs.byethost12.com/tmp/Generator.jpg)
+![](https://camo.githubusercontent.com/c3f933a43c219ebdfcf62d7e923336d482660400b31e2778adef77365d8ae715/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f47656e657261746f722e6a7067)
+
 __How to use Code Generator?__
 
 1. words or url

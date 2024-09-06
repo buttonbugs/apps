@@ -29,8 +29,8 @@ __What is Code Generator?__
 
 *Code Generator* is an app that can generate barcodes, QR codes, etc.
 
+![](https://camo.githubusercontent.com/d88841936a8e87dfa0e33c4722fd3d6b9c2ecc0699e39bcca13ae8edb3430114/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f436f64655f47656e657261746f722e706e673f)
 ![](https://camo.githubusercontent.com/9f1d77114c19e11c2bc8561153a1183876ba0792d9dca3879a9f52855fb78f35/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f436f64655f47656e657261746f722e706e67)
-![](http://buttonbugs.byethost12.com/tmp/Code_Generator.png?)
 
 __How to use Code Generator?__
 

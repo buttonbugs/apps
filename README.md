@@ -1,7 +1,6 @@
 ButtonBugs Apps
 =============================
-Quick Downloads
-
+__Quick Downloads__
 Apps|Download Links|Version
 -|-|-
 Sticker Tips|[object08tips.exe](https://github.com/buttonbugs/apps/raw/main/object08tips.exe)|1.1.2

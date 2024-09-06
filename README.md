@@ -9,6 +9,7 @@ Code Generator|[code generator.exe](https://github.com/buttonbugs/apps/raw/main/
 
 __Unable to download?__
 Click `code` > `Download ZIP`
+
 ![](http://buttonbugs.byethost12.com/object00home/how_to_download_1.png)
 
 Sticker Tips

@@ -40,11 +40,11 @@ __How to use Code Generator?__
 
    `Qr code`, `Code39`, `Code128`, `PZN`, `EAN`, `EAN8`, `EAN8_GUARD`, `EAN13`, `EAN13_GUARD`, `EAN14`, `GTIN`, `JAN`, `UPC`, `UPCA`, `ISSN`, `ISBN`, `ISBN10`, `ISBN13`, `Gs1`, `Gs1_128`, `ITF`, `CODABAR`
 
-4. version
+3. version
 
     The version of `Qr code` ranging from `1` to `40`.
 
-5. error correction level
+4. error correction level
 
     `L` - About **7%** or less errors can be corrected.
 
@@ -54,22 +54,26 @@ __How to use Code Generator?__
 
     `H` - About **30%** or less errors can be corrected.
 
-7. background picture
+5. background picture
 
     Click `...` to add background pictures for the QR code.
 
-8. icon
+6. icon
 
     Click `...` to add icons for the QR code, and icon will be displayed at the center of the QR code.
 
-9. contrast
+7. contrast
 
     Drag the slider to change the contrast of the background pictures.
 
-10. brightness
+8. brightness
 
     Drag the slider to change the brightness of the background pictures.
 
-12. save dir
+9. save dir
 
     Click `...` to change the path to save the code.
+
+10. colorized
+
+    Choose whether you want a colorized background or a grayscale background.

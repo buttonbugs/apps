@@ -87,6 +87,22 @@ __What is Sticker Tips?__
 
     ![excel_paste.png](https://camo.githubusercontent.com/ef64ddec2087dd0126721c152c4e0481323383b41a3946cd48abda0a9359c9eb/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f657863656c5f70617374652e706e67)
 
+### Print the stickers
+
+After confirming that the contents in the preview area is correct, click the `print` button or press `Ctrl` + `P` to print.
+
+![](http://buttonbugs.byethost12.com/tmp/print.png)
+
+### Change the font color
+
+![](http://buttonbugs.byethost12.com/tmp/change_color.png?)
+
+### Where to buy stickers?
+
+Click the "`open in the browser`" button to open the to open the [online sticker store](https://item.jd.com/10021221198489.html).
+
+![](http://buttonbugs.byethost12.com/tmp/buy.png?)
+
 Code Generator
 -
 __What is Code Generator?__

@@ -91,17 +91,17 @@ __What is Sticker Tips?__
 
 After confirming that the contents in the preview area is correct, click the `print` button or press `Ctrl` + `P` to print.
 
-![](http://buttonbugs.byethost12.com/tmp/print.png)
+![](https://camo.githubusercontent.com/5285d07594af837477dbd6a8f5bbd1bc760167ef63daff5c52c262a70e3567ef/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f7072696e742e706e67)
 
 ### Change the font color
 
-![](http://buttonbugs.byethost12.com/tmp/change_color.png?)
+![](https://camo.githubusercontent.com/58219fff7c23ea4c23d22e92a1d6a37f5e510106b411ac4fc03b3b3cf58beec6/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f6368616e67655f636f6c6f722e706e673f)
 
 ### Where to buy stickers?
 
 Click the "`open in the browser`" button to open the to open the [online sticker store](https://item.jd.com/10021221198489.html).
 
-![](http://buttonbugs.byethost12.com/tmp/buy.png?)
+![](https://camo.githubusercontent.com/ef9098f4937c6604a88a39f2ba565c0de63e7372e047e026e4604f846f2f8f67/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f6275792e706e673f)
 
 Code Generator
 -
@@ -115,6 +115,7 @@ __What is Code Generator?__
 __How to use Code Generator?__
 
 1. words or url
+
     Input the content of the QR code, such as `ButtonBugs` or `123`.
 
 2. type

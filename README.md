@@ -23,7 +23,69 @@ __What is Sticker Tips?__
 
 ![](https://camo.githubusercontent.com/728590bfa6ac00ebe1b263de2bccb570e02b35bce77fa93eac3265d4c74a717f/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f776861745f69735f746970732e706e67)
 
-__How to use Sticker Tips?__
+##### Edit a Sticker
+
+1. `QR` Mode
+
+    - `Text`: The text that will be printed on the left side. (The text following the "`#`" will be printed in the lower left.)
+
+    - `Code`: The result when you scan the QR code.
+
+    ![](http://buttonbugs.byethost12.com/tmp/QR_code_mode.png)
+    ![](http://buttonbugs.byethost12.com/tmp/QR_code_mode_r.png)
+
+2. `ean13` Mode
+
+    - `Text`: The text that will be printed at the bottom. (The text following the "`#`" will be printed in the lower left.)
+
+    - `Code`: The result when you scan the `ean-13` bar code, which could only be a number of eleven or twelve digits.
+        
+    - `Icon`: The icon that will be printed on the right side.
+
+        - `cover`: The cover searched from the Internet according to the `Code` if available.
+            
+        - `book`: A default book icon.
+
+    ![](http://buttonbugs.byethost12.com/tmp/ean13_code_mode.png)
+    ![](http://buttonbugs.byethost12.com/tmp/ean13_code_mode_r.png)
+
+3. `image`
+
+    - Edit an image
+
+        ![](http://buttonbugs.byethost12.com/tmp/paint_mode.png)
+        ![](http://buttonbugs.byethost12.com/tmp/paint_mode_s.png)
+        ![](http://buttonbugs.byethost12.com/tmp/paint_mode_r.png)
+
+    - Open an image file
+
+        ![](http://buttonbugs.byethost12.com/tmp/image_mode.png)
+        ![](http://buttonbugs.byethost12.com/tmp/image_mode_r.png?)
+
+4. `empty` Mode: Blank stickers.
+
+    ![](http://buttonbugs.byethost12.com/tmp/empty_mode.png)
+    ![](http://buttonbugs.byethost12.com/tmp/empty_mode_r.png)
+
+##### Import from Excel (Recommended)
+
+1. Create an Excel file
+
+2. Input the header row (`type`, `icon`, `text` and `code`)
+
+    ![](http://buttonbugs.byethost12.com/tmp/excel_header_row.png)
+    
+3. Input the data
+
+    ![](http://buttonbugs.byethost12.com/tmp/excel_data.png)
+
+4. Select and copy
+
+    ![](http://buttonbugs.byethost12.com/tmp/excel_copy.png)
+
+5. Click the paste button or reopen the app
+
+    ![](http://buttonbugs.byethost12.com/tmp/excel_paste.png)
 
 Code Generator
 -

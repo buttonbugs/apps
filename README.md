@@ -23,7 +23,7 @@ __What is Sticker Tips?__
 
 ![](https://camo.githubusercontent.com/728590bfa6ac00ebe1b263de2bccb570e02b35bce77fa93eac3265d4c74a717f/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f776861745f69735f746970732e706e67)
 
-### Edit a Sticker
+##### Edit a Sticker
 
 1. `QR` Mode
 
@@ -31,8 +31,8 @@ __What is Sticker Tips?__
 
     - `Code`: The result when you scan the QR code.
 
-    ![](http://buttonbugs.byethost12.com/tmp/QR_code_mode.png)
-    ![](http://buttonbugs.byethost12.com/tmp/QR_code_mode_r.png)
+    ![QR_code_mode.png](https://camo.githubusercontent.com/d5eb480f2011a44ab845fc3ec464fed393e2de0b3ee47f28048be7c8917d05e5/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f51525f636f64655f6d6f64652e706e67)
+    ![QR_code_mode_r](https://camo.githubusercontent.com/fa6920a6dc2e9b83f310d507a0190ad794b45b8de14dd8450b5d2925953807c5/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f51525f636f64655f6d6f64655f722e706e67)
 
 2. `ean13` Mode
 
@@ -46,46 +46,46 @@ __What is Sticker Tips?__
             
         - `book`: A default book icon.
 
-    ![](http://buttonbugs.byethost12.com/tmp/ean13_code_mode.png)
-    ![](http://buttonbugs.byethost12.com/tmp/ean13_code_mode_r.png)
+    ![ean13_code_mode.png](https://camo.githubusercontent.com/7fe2767de2f5570632db0bc9b03e1e99d0dad11391df614eaccdb235c65abfd4/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f65616e31335f636f64655f6d6f64652e706e67)
+    ![ean13_code_mode_r.png](https://camo.githubusercontent.com/8aa24ff666c18937dd03ce0acd61e622fe429e3eddc21f53f4518595136c2ea4/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f65616e31335f636f64655f6d6f64655f722e706e67)
 
 3. `image`
 
     - Edit an image
 
-        ![](http://buttonbugs.byethost12.com/tmp/paint_mode.png)
-        ![](http://buttonbugs.byethost12.com/tmp/paint_mode_s.png)
-        ![](http://buttonbugs.byethost12.com/tmp/paint_mode_r.png)
+        ![paint_mode.png](https://camo.githubusercontent.com/1cd9157da39abdd423567a21aec725f030aeb1ecb19cb34b770687126e831f80/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f7061696e745f6d6f64652e706e67)
+        ![paint_mode_s.png](https://camo.githubusercontent.com/9e4a27d0f1d02efbcd28f14bf5c45fc89a0412308330e47ded3ea8e2707356b5/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f7061696e745f6d6f64655f732e706e67)
+        ![paint_mode_r.png](https://camo.githubusercontent.com/55d026abee8500fef66d58c6de429a4eaa0cd20c1ce288a65bbb6131a7ef3424/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f7061696e745f6d6f64655f722e706e67)
 
     - Open an image file
 
-        ![](http://buttonbugs.byethost12.com/tmp/image_mode.png)
-        ![](http://buttonbugs.byethost12.com/tmp/image_mode_r.png?)
+        ![image_mode.png](https://camo.githubusercontent.com/14febdfe3543dccaef3843a37e431ebd4e0c2c79307964416d89ff42e399be0f/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f696d6167655f6d6f64652e706e67)
+        ![image_mode_r.png?](https://camo.githubusercontent.com/e46469f94fbbb5840c78ba89679995c04b2ce9206ee2dc745345c781814623cd/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f696d6167655f6d6f64655f722e706e673f)
 
 4. `empty` Mode: Blank stickers.
 
-    ![](http://buttonbugs.byethost12.com/tmp/empty_mode.png)
-    ![](http://buttonbugs.byethost12.com/tmp/empty_mode_r.png)
+    ![empty_mode.png](https://camo.githubusercontent.com/3bc3ffa8b0c197f9059ff956f0d5fc9c7e5ac747fb4997e16f0ba11547cdb383/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f656d7074795f6d6f64652e706e67)
+    ![empty_mode_r.png](https://camo.githubusercontent.com/02983de19527970cf7fc6103045a38c3f1804468944aa0c576ddb957b517e2ba/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f656d7074795f6d6f64655f722e706e67)
 
-### Import from Excel (Recommended)
+##### Import from Excel (Recommended)
 
 1. Create an Excel file
 
 2. Input the header row (`type`, `icon`, `text` and `code`)
 
-    ![](http://buttonbugs.byethost12.com/tmp/excel_header_row.png)
+    ![excel_header_row.png](https://camo.githubusercontent.com/2a8cb62dd17002d2eefac74dc70fc72c0ff39b8c81acbee4073f0cf5a6d32f4d/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f657863656c5f6865616465725f726f772e706e67)
     
 3. Input the data
 
-    ![](http://buttonbugs.byethost12.com/tmp/excel_data.png)
+    ![excel_data.png](https://camo.githubusercontent.com/5e5cff630e5e426d6a600c00901b012cf1ec22e06460f9495b896dd5aba5cd86/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f657863656c5f646174612e706e67)
 
 4. Select and copy
 
-    ![](http://buttonbugs.byethost12.com/tmp/excel_copy.png)
+    ![excel_copy.png](https://camo.githubusercontent.com/977365af6fa64bb552d3cda25ca83d0f380ac307b8cd46197708a025a248be95/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f657863656c5f636f70792e706e67)
 
 5. Click the paste button or reopen the app
 
-    ![](http://buttonbugs.byethost12.com/tmp/excel_paste.png)
+    ![excel_paste.png](https://camo.githubusercontent.com/ef64ddec2087dd0126721c152c4e0481323383b41a3946cd48abda0a9359c9eb/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f657863656c5f70617374652e706e67)
 
 Code Generator
 -

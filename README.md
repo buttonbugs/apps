@@ -23,7 +23,7 @@ __What is Sticker Tips?__
 
 ![](https://camo.githubusercontent.com/728590bfa6ac00ebe1b263de2bccb570e02b35bce77fa93eac3265d4c74a717f/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f776861745f69735f746970732e706e67)
 
-##### Edit a Sticker
+### Edit a Sticker
 
 1. `QR` Mode
 
@@ -67,7 +67,7 @@ __What is Sticker Tips?__
     ![](http://buttonbugs.byethost12.com/tmp/empty_mode.png)
     ![](http://buttonbugs.byethost12.com/tmp/empty_mode_r.png)
 
-##### Import from Excel (Recommended)
+### Import from Excel (Recommended)
 
 1. Create an Excel file
 

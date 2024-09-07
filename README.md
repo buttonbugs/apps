@@ -99,7 +99,7 @@ After confirming that the contents in the preview area is correct, click the `pr
 
 ### Where to buy stickers?
 
-Click the "`open in the browser`" button to open the to open the [online sticker store](https://item.jd.com/10021221198489.html).
+Click the "`open in the browser`" button to open the to open the <a href="https://item.jd.com/10021221198489.html" target="_blank">online sticker store</a>.
 
 ![](https://camo.githubusercontent.com/ef9098f4937c6604a88a39f2ba565c0de63e7372e047e026e4604f846f2f8f67/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f6275792e706e673f)
 

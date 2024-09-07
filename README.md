@@ -2,7 +2,7 @@ ButtonBugs Apps
 =============================
 __Quick Downloads__
 
-You have the option to download all of the [Apps](https://github.com/buttonbugs/apps/archive/refs/heads/main.zip) (click to download), or you can choose to download a specific one from the list below.
+You have the option to download all of the [Apps](https://github.com/buttonbugs/apps/archive/refs/heads/main.zip) (click to download), or you can choose a specific one from the list below.
 
 Apps|Download Links|How to use|Version
 -|-|-|-

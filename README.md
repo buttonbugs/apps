@@ -11,8 +11,7 @@ Code Generator|[Code_Generator.1.0.0.zip](https://github.com/buttonbugs/apps/rel
 
 __Looking for a specific release?__
 
-![](https://img.shields.io/badge/Apps-Release History-blue)
-[![](https://img.shields.io/badge/Apps-Release History-blue)](https://github.com/buttonbugs/apps/releases)
+[![]("https://img.shields.io/badge/Apps-Release History-blue")](https://github.com/buttonbugs/apps/releases)
 
 __Unable to download?__
 

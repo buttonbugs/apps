@@ -93,7 +93,7 @@ __What is Tip Stickers?__
 
 ### Print the stickers
 
-After confirming that the contents in the preview area is correct, click the `print` button or press <kbr>Ctrl</kbr> <kbr>P</kbr> to print.
+After confirming that the contents in the preview area is correct, click the `print` button or press <kbd>Ctrl</kbd> <kbd>P</kbd> to print.
 
 ![](https://camo.githubusercontent.com/5285d07594af837477dbd6a8f5bbd1bc760167ef63daff5c52c262a70e3567ef/687474703a2f2f627574746f6e627567732e62796574686f737431322e636f6d2f746d702f7072696e742e706e67)
 
